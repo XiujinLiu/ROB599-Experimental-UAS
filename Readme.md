@@ -1,4 +1,5 @@
 # Documentation
+This Project is Finished by Jean Liu, Andy Qin, Kaho Lai, Hao Hu
 [Documentation for rc_pilot](http://www-personal.umich.edu/~ghaggin/rc_pilot/)
 
 # Setup
