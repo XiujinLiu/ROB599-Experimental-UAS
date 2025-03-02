@@ -1,0 +1,5 @@
+numpy
+pillow
+tflite-runtime
+opencv-python
+Flask
